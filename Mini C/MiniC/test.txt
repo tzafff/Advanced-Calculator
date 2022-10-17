@@ -1,0 +1,11 @@
+
+n= 5;
+a1 = 1;
+step =1;
+function SumArithSeries(terms,firstterm,step){
+sum=0;
+sum = (terms*(2*firstterm+(terms-1) *step))/2;
+return sum;
+}
+arithseriessum = SumArithSeries(n,a1,step);
+

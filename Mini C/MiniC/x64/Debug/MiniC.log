@@ -1,0 +1,4 @@
+﻿  SymbolNodes.cpp
+C:\Users\chris\source\repos\MiniC - Copy\MiniC\SymbolNodes.cpp(361,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chris\source\repos\MiniC - Copy\MiniC\SymbolNodes.cpp(373,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MiniC.vcxproj -> C:\Users\chris\source\repos\MiniC - Copy\x64\Debug\MiniC.exe
